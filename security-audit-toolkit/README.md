@@ -23,4 +23,4 @@ Este repositorio es una suite de herramientas diseñada para demostrar el domini
 3. **SQL**: Compatible con entornos MySQL/MariaDB.
 
 ---
-> **Disclaimer:** Este proyecto tiene fines estrictamente educativos. No me hago responsable del uso indebido de estas herramientas.
+
